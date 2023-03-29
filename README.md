@@ -20,6 +20,7 @@
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b>
+- <b>Tic Tac Toe game ()</b>
 
 <h2>🌱 I’m currently learning:</h2>
 - <b>React</b>
