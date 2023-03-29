@@ -23,8 +23,8 @@
 - <b>Tic Tac Toe game ()</b>
 
 <h2>🌱 I’m currently learning:</h2>
-- <b>React</b>
-- <b>SASS</b>
+- <b>React</b><br/>
+- <b>SASS</b><br/>
 - <b>Wordpress</b>
 
 <h2> 🤳 Connect with me:</h2>
