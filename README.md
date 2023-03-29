@@ -19,7 +19,7 @@
   - [Lucky Numbers](https://github.com/marinaSandberg/joker/tree/main)
 
 <h2>🔭 I’m currently working on:</h2>
-- <b>Full stack website ()</b>
+- <b>Full stack website ()</b><br/>
 - <b>Tic Tac Toe game ()</b>
 
 <h2>🌱 I’m currently learning:</h2>
