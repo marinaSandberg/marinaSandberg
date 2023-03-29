@@ -24,6 +24,8 @@
 
 <h2>🌱 I’m currently learning:</h2>
 - <b>React</b>
+- <b>SASS</b>
+- <b>Wordpress</b>
 
 <h2> 🤳 Connect with me:</h2>
 
