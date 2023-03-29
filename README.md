@@ -7,6 +7,11 @@
   
 - <b>Dynamic web apps (JavaScript)</b>
   - [Convert seconds](https://github.com/marinaSandberg/SecondsToTime/tree/main)
+  - [Calculator](https://github.com/marinaSandberg/calculator/tree/main)
+  - [Convert seconds]()
+  - [Convert seconds]()
+
+
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b>
