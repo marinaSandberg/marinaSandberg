@@ -29,6 +29,8 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Facebook]: https://www.instagram.com/joshmadakor/
+[Facebook]: https://www.facebook.com/marina.p13/
+[Instagram]: https://www.instagram.com/marina__papadaki/?next=%2F
 [linkedin]: https://www.linkedin.com/in/marina-sandberg-papadaki-5a9b49100/
