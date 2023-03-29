@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Dynamic web apps (JavaScript)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Convert seconds](https://github.com/marinaSandberg/SecondsToTime/tree/main)
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b>
