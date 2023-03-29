@@ -5,13 +5,18 @@
 - <b>Static site (HTML, CSS)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
-- <b>Dynamic web apps (JavaScript)</b>
+- <b>Dynamic web apps (HTML, CSS, JavaScript)</b>
+  - [Mask Card Numbers](https://github.com/marinaSandberg/maskCard/tree/main)
+  - [Invalid Transaction](https://github.com/marinaSandberg/transactions/tree/main)
   - [Convert seconds](https://github.com/marinaSandberg/SecondsToTime/tree/main)
   - [Calculator](https://github.com/marinaSandberg/calculator/tree/main)
-  - [Convert seconds]()
-  - [Convert seconds]()
+  - [Clock](https://github.com/marinaSandberg/clock/tree/main)
+  - [Ordinals](https://github.com/marinaSandberg/ordinals/tree/main)
 
-
+- <b>Dynamic web games (HTML, CSS, JavaScript)</b>
+  - [Heads and Tails](https://github.com/marinaSandberg/HeadsAndTails/tree/main)
+  - [Workers game](https://github.com/marinaSandberg/workers-game)
+  - [Lucky Numbers](https://github.com/marinaSandberg/joker/tree/main)
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b>
