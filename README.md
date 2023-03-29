@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marina!<br/><a href="https://github.com/marinaSandberg">Full stack Developer</a></h1>
+<h1>Hi, I'm Marina!<br/><a href="https://github.com/marinaSandberg">Jr Full stack Developer</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
