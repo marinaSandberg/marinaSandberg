@@ -14,13 +14,13 @@
   - [Ordinals](https://github.com/marinaSandberg/ordinals/tree/main)
 
 - <b>Dynamic web games (HTML, CSS, JavaScript)</b>
+  - [Tic Tac Toe](https://github.com/marinaSandberg/Tic-Tac-Toe/blob/main/README.md)
   - [Heads and Tails](https://github.com/marinaSandberg/HeadsAndTails/tree/main)
   - [Workers game](https://github.com/marinaSandberg/workers-game)
   - [Lucky Numbers](https://github.com/marinaSandberg/joker/tree/main)
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b><br/>
-- <b>Tic Tac Toe game ()</b>
 
 <h2>🌱 I’m currently learning:</h2>
 - <b>React</b><br/>
