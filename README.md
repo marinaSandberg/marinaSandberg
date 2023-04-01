@@ -14,7 +14,7 @@
   - [Ordinals](https://github.com/marinaSandberg/ordinals/tree/main)
 
 - <b>Dynamic web games (HTML, CSS, JavaScript)</b>
-  - [Tic Tac Toe](https://github.com/marinaSandberg/Tic-Tac-Toe/blob/main/README.md)
+  - [Tic Tac Toe](https://github.com/marinaSandberg/Tic-Tac-Toe)
   - [Heads and Tails](https://github.com/marinaSandberg/HeadsAndTails/tree/main)
   - [Workers game](https://github.com/marinaSandberg/workers-game)
   - [Lucky Numbers](https://github.com/marinaSandberg/joker/tree/main)
