@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Static site (HTML, CSS)</b>
-  - [Business presentation site](https://github.com/marinaSandberg/staticSite/tree/main)
+  - [Business presentation site](https://marinasandberg.github.io/staticSite/)
   
 - <b>Dynamic web apps (HTML, CSS, JavaScript)</b>
   - [Mask Card Numbers](https://github.com/marinaSandberg/maskCard/tree/main)
