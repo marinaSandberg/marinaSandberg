@@ -6,12 +6,12 @@
   - [Business presentation site](https://marinasandberg.github.io/staticSite/)
   
 - <b>Dynamic web apps (HTML, CSS, JavaScript)</b>
-  - [Mask Card Numbers](https://github.com/marinaSandberg/maskCard/tree/main)
-  - [Invalid Transaction](https://github.com/marinaSandberg/transactions/tree/main)
-  - [Convert seconds](https://github.com/marinaSandberg/SecondsToTime/tree/main)
-  - [Calculator](https://github.com/marinaSandberg/calculator/tree/main)
+  - [Mask Card Numbers](https://marinasandberg.github.io/maskCard/)
+  - [Invalid Transaction](https://marinasandberg.github.io/transactions/)
+  - [Convert seconds](https://marinasandberg.github.io/SecondsToTime/)
+  - [Calculator](https://marinasandberg.github.io/calculator/)
   - [Date and Clock](https://marinasandberg.github.io/clock/)
-  - [Ordinals](https://github.com/marinaSandberg/ordinals/tree/main)
+  - [Ordinals](https://marinasandberg.github.io/ordinals/)
 
 - <b>Dynamic web games (HTML, CSS, JavaScript)</b>
   - [Tic Tac Toe](https://marinasandberg.github.io/Tic-Tac-Toe/)
