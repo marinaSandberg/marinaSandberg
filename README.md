@@ -17,7 +17,7 @@
   - [Tic Tac Toe](https://marinasandberg.github.io/Tic-Tac-Toe/)
   - [Heads and Tails](https://github.com/marinaSandberg/HeadsAndTails/tree/main)
   - [Workers game](https://github.com/marinaSandberg/workers-game)
-  - [Lucky Numbers](https://github.com/marinaSandberg/joker/tree/main)
+  - [Lucky Numbers](https://marinasandberg.github.io/joker/)
 
 <h2>🔭 I’m currently working on:</h2>
 - <b>Full stack website ()</b><br/>
