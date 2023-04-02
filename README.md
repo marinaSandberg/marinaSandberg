@@ -19,12 +19,12 @@
   - [Lucky Numbers](https://marinasandberg.github.io/joker/)
 
 <h2>🔭 I’m currently working on:</h2>
-- [Mask Card Numbers](https://marinasandberg.github.io/maskCard/)<br/>
-- <b>Full stack website ()</b><br/>
+  - "[Mask Card Numbers](https://marinasandberg.github.io/maskCard/)"<br/>
+  - <b>Full stack website ()</b><br/>
 
 <h2>🌱 I’m currently learning:</h2>
-- <b>React</b><br/>
-- <b>Wordpress</b>
+  - <b>React</b><br/>
+  - <b>Wordpress</b>
 
 <h2> 🤳 Connect with me:</h2>
 
