@@ -6,6 +6,7 @@
   - [Business presentation site](https://marinasandberg.github.io/staticSite/)
   
 - <b>Dynamic web apps (HTML, CSS, JavaScript)</b>
+  - [Card Credentials with Masked Numbers](https://marinasandberg.github.io/maskCard/)
   - [Invalid Transaction](https://marinasandberg.github.io/transactions/)
   - [Convert seconds](https://marinasandberg.github.io/SecondsToTime/)
   - [Calculator](https://marinasandberg.github.io/calculator/)
@@ -19,7 +20,6 @@
   - [Lucky Numbers](https://marinasandberg.github.io/joker/)
 
 <h2>🔭 I’m currently working on:</h2>
-  - "[Mask Card Numbers](https://marinasandberg.github.io/maskCard/)"<br/>
   - <b>Full stack website ()</b><br/>
 
 <h2>🌱 I’m currently learning:</h2>
