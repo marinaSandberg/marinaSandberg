@@ -10,7 +10,7 @@
   - [Invalid Transaction](https://marinasandberg.github.io/transactions/)
   - [Convert seconds](https://marinasandberg.github.io/SecondsToTime/)
   - [Calculator](https://marinasandberg.github.io/calculator/)
-  - [Date and Clock](https://marinasandberg.github.io/clock/)
+  - [Date and Time](https://marinasandberg.github.io/clock/)
   - [Ordinals](https://marinasandberg.github.io/ordinals/)
 
 - <b>Dynamic web games (HTML, CSS, JavaScript)</b>
